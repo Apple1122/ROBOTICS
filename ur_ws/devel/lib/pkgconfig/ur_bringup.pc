@@ -1,0 +1,8 @@
+prefix=/home/kyle/ur_ws/devel
+
+Name: ur_bringup
+Description: Description of ur_bringup
+Version: 1.2.1
+Cflags: 
+Libs: -L/home/kyle/ur_ws/devel/lib 
+Requires: 

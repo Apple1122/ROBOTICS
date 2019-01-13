@@ -1,0 +1,8 @@
+prefix=/home/kyle/ur_ws/devel
+
+Name: motion_planing
+Description: Description of motion_planing
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kyle/ur_ws/devel/lib 
+Requires: 
